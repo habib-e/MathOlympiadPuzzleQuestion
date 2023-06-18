@@ -48,3 +48,59 @@ Substituting the value of r back into equation 2:
 b = 700
 
 Therefore, there are 700 bicycles and 800 rickshaws in the city of Lalmonir.
+
+
+
+
+
+
+
+
+
+----->>>>> 3. tushi and Joyita saw a incident then when it was happening tushi says Joyita was behind her and Joyita also says the same thing that tushi was behind her now if both of them are telling truth then how ?
+
+If Tushi and Joyita are both telling the truth when they say that the other person was behind them, it means that they are facing each other during the incident.
+
+Let's imagine a scenario: Tushi and Joyita are standing facing each other, with Tushi looking at Joyita and Joyita looking at Tushi. In this situation, Tushi's statement that Joyita was behind her is true because when Tushi looks ahead, Joyita is positioned behind her. Similarly, Joyita's statement that Tushi was behind her is also true because when Joyita looks ahead, Tushi is positioned behind her.
+
+So, when they say they are behind each other, they mean that they are positioned in such a way that when each of them looks ahead, the other person is behind them.
+
+This suggests that Tushi and Joyita are facing each other, which allows their statements to be true simultaneously.
+
+
+
+
+
+------->>>>>7. rofik turn 19 years today so his cake should have 19 candle in 9 line that each line has same amount of candle now maximum how many candle can each line have?
+
+ans:
+If Rofik is turning 19 years old today and his cake should have 19 candles arranged in 9 lines, with each line having the same number of candles, we can determine the maximum number of candles each line can have by dividing 19 by 9.
+
+Dividing 19 by 9 gives us:
+
+19 ÷ 9 = 2 remainder 1
+
+Since each line should have the same number of candles, we want to distribute the candles as evenly as possible. However, we can't have a fractional number of candles, so we distribute the remainder 1 among the lines. This means that one of the lines will have one additional candle compared to the other lines.
+
+Therefore, the maximum number of candles each line can have is 2, with one line having 3 candles.
+
+
+-------->>>>> 8. 
+if a=b then we can write a^2 = ab then
+a^2-b^2 = a^2-ab then
+(a+b) (a-b) = a(a-b) then
+a+b = a then
+2a = a or 2=1 
+if we borrow 2$ from someone we can return 1$ in this logic. 
+where is the problem this logic?
+
+ans:
+The problem with this logic arises when we cancel out the term "(a-b)" in the equation "(a+b)(a-b) = a(a-b)".
+
+In the step where we cancel out "(a-b)" from both sides of the equation, we are assuming that "(a-b)" is not equal to zero. However, in this particular case, we have "a = b", which means "(a-b)" is equal to zero. Dividing both sides of the equation by zero is undefined in mathematics and leads to incorrect results.
+
+So, the mistake in this logic occurs when canceling out the term "(a-b)" while assuming it is not equal to zero. This invalidates the subsequent steps and the conclusion that "2a = a" or "2 = 1".
+
+Mathematically, it is important to be cautious when dividing or canceling terms, ensuring that the assumptions made are valid and consistent throughout the process.
+
+
