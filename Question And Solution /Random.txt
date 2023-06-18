@@ -1,4 +1,4 @@
-2. In a city called lalmonir each bicycle and rickshaw can have ride 2 persons including driver and that city has 3 thousand people and bicycle and rickshaw's total tire is 3800 where bicycle has 2 wheel and rickshaw has 3 wheel then how many bicycle  and rickshaw have?
+----->>>> 2. In a city called lalmonir each bicycle and rickshaw can have ride 2 persons including driver and that city has 3 thousand people and bicycle and rickshaw's total tire is 3800 where bicycle has 2 wheel and rickshaw has 3 wheel then how many bicycle  and rickshaw have?
 
 Ans: Let's solve the problem step by step:
 
