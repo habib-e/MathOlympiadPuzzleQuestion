@@ -1,0 +1,2 @@
+# MathOlympiadPuzzleQuestion
+It's fun
