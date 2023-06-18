@@ -1,1 +1,50 @@
+2. In a city called lalmonir each bicycle and rickshaw can have ride 2 persons including driver and that city has 3 thousand people and bicycle and rickshaw's total tire is 3800 where bicycle has 2 wheel and rickshaw has 3 wheel then how many bicycle  and rickshaw have?
 
+Ans: Let's solve the problem step by step:
+
+Let's assume the number of bicycles to be "b" and the number of rickshaws to be "r".
+
+Each bicycle has 2 wheels, so the total number of bicycle wheels is 2b.
+Each rickshaw has 3 wheels, so the total number of rickshaw wheels is 3r.
+
+Given that the total number of wheels in the city is 3800, we can write the equation:
+
+2b + 3r = 3800 ----(1)
+
+Now, let's consider the number of people in the city. Each bicycle and rickshaw can carry 2 people, including the driver. Therefore, the total number of people carried by bicycles and rickshaws is 2b + 2r.
+
+Given that there are 3000 people in the city, we can write the equation:
+
+2b + 2r = 3000 ----(2)
+
+We now have a system of two equations (equation 1 and equation 2) with two variables (b and r). We can solve this system to find the values of b and r.
+
+Multiplying equation 2 by 2, we get:
+
+4b + 4r = 6000 ----(3)
+
+Subtracting equation 1 from equation 3, we eliminate the variable "r":
+
+(4b + 4r) - (2b + 3r) = 6000 - 3800
+2b + r = 2200 ----(4)
+
+Now, we have two equations:
+
+2b + r = 2200 ----(4)
+2b + 2r = 3000 ----(2)
+
+Subtracting equation 2 from equation 4, we eliminate the variable "b":
+
+(2b + r) - (2b + 2r) = 2200 - 3000
+-r = -800
+r = 800
+
+Substituting the value of r back into equation 2:
+
+2b + 2(800) = 3000
+2b + 1600 = 3000
+2b = 3000 - 1600
+2b = 1400
+b = 700
+
+Therefore, there are 700 bicycles and 800 rickshaws in the city of Lalmonir.
